@@ -1,9 +1,8 @@
-import Users from "./components/Users";
-
 const App = () => {
   return (
     <div>
-      <Users />
+      {/* <Users /> */}
+      Hello TSX
     </div>
   );
 };
